@@ -29,6 +29,7 @@ h1 {
 }
 
 .reason {
+    line-height: 1.4;
     padding: 20px;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.05);
